@@ -6,7 +6,7 @@
             "name": "\/var\/containers\/Bundle\/Application\/BC6B4B38-6DB8-4977-98A3-4F01E20F6010\/CrashProbeiOS.app\/CrashProbeiOS",
             "cpu_subtype": 0,
             "image_vmaddr": "0x0",
-            "image_addr": "0x7c000",
+            "image_addr": "0x20000",
             "cpu_type": 16777228,
             "uuid": "E3FC64AB-4590-3E89-AE41-2D7AC2B4CCC4",
             "type": "apple",
@@ -18,7 +18,7 @@
             "name": "\/private\/var\/containers\/Bundle\/Application\/BC6B4B38-6DB8-4977-98A3-4F01E20F6010\/CrashProbeiOS.app\/Frameworks\/CrashLibiOS.framework\/CrashLibiOS",
             "cpu_subtype": 0,
             "image_vmaddr": "0x0",
-            "image_addr": "0x13c000",
+            "image_addr": "0x3c000",
             "cpu_type": 16777228,
             "uuid": "A5BC708A-AA52-3365-AF61-4246EBEF125C",
             "type": "apple",
@@ -30,7 +30,7 @@
             "name": "\/private\/var\/containers\/Bundle\/Application\/BC6B4B38-6DB8-4977-98A3-4F01E20F6010\/CrashProbeiOS.app\/Frameworks\/SentrySwift.framework\/SentrySwift",
             "cpu_subtype": 0,
             "image_vmaddr": "0x0",
-            "image_addr": "0x1dc000",
+            "image_addr": "0x164000",
             "cpu_type": 16777228,
             "uuid": "4DC7DC46-2ACB-3FFD-918E-660B7C9A26F4",
             "type": "apple",
@@ -42,7 +42,7 @@
             "name": "\/private\/var\/containers\/Bundle\/Application\/BC6B4B38-6DB8-4977-98A3-4F01E20F6010\/CrashProbeiOS.app\/Frameworks\/libswiftCore.dylib",
             "cpu_subtype": 0,
             "image_vmaddr": "0x0",
-            "image_addr": "0x288000",
+            "image_addr": "0x210000",
             "cpu_type": 16777228,
             "uuid": "FC4AD1B9-1FD4-3FB7-AC3E-0239C3A7D115",
             "type": "apple",
@@ -54,7 +54,7 @@
             "name": "\/private\/var\/containers\/Bundle\/Application\/BC6B4B38-6DB8-4977-98A3-4F01E20F6010\/CrashProbeiOS.app\/Frameworks\/libswiftCoreGraphics.dylib",
             "cpu_subtype": 0,
             "image_vmaddr": "0x0",
-            "image_addr": "0x5dc000",
+            "image_addr": "0x564000",
             "cpu_type": 16777228,
             "uuid": "C68C14BD-7CD2-33A5-BCEB-794964630DB5",
             "type": "apple",
@@ -66,7 +66,7 @@
             "name": "\/private\/var\/containers\/Bundle\/Application\/BC6B4B38-6DB8-4977-98A3-4F01E20F6010\/CrashProbeiOS.app\/Frameworks\/libswiftCoreImage.dylib",
             "cpu_subtype": 0,
             "image_vmaddr": "0x0",
-            "image_addr": "0x98000",
+            "image_addr": "0x588000",
             "cpu_type": 16777228,
             "uuid": "18ABF908-C607-32F8-BE39-B5FC706D495B",
             "type": "apple",
@@ -78,7 +78,7 @@
             "name": "\/private\/var\/containers\/Bundle\/Application\/BC6B4B38-6DB8-4977-98A3-4F01E20F6010\/CrashProbeiOS.app\/Frameworks\/libswiftDarwin.dylib",
             "cpu_subtype": 0,
             "image_vmaddr": "0x0",
-            "image_addr": "0x600000",
+            "image_addr": "0x598000",
             "cpu_type": 16777228,
             "uuid": "3510676B-4F63-374C-A9AB-248E77B87F74",
             "type": "apple",
@@ -90,7 +90,7 @@
             "name": "\/private\/var\/containers\/Bundle\/Application\/BC6B4B38-6DB8-4977-98A3-4F01E20F6010\/CrashProbeiOS.app\/Frameworks\/libswiftDispatch.dylib",
             "cpu_subtype": 0,
             "image_vmaddr": "0x0",
-            "image_addr": "0x614000",
+            "image_addr": "0x5ac000",
             "cpu_type": 16777228,
             "uuid": "CECB236E-E4C7-3271-A597-55FBDBE488C6",
             "type": "apple",
@@ -102,7 +102,7 @@
             "name": "\/private\/var\/containers\/Bundle\/Application\/BC6B4B38-6DB8-4977-98A3-4F01E20F6010\/CrashProbeiOS.app\/Frameworks\/libswiftFoundation.dylib",
             "cpu_subtype": 0,
             "image_vmaddr": "0x0",
-            "image_addr": "0x664000",
+            "image_addr": "0x5fc000",
             "cpu_type": 16777228,
             "uuid": "9303B99D-2D99-3822-AB42-4275BFC34926",
             "type": "apple",
@@ -114,7 +114,7 @@
             "name": "\/private\/var\/containers\/Bundle\/Application\/BC6B4B38-6DB8-4977-98A3-4F01E20F6010\/CrashProbeiOS.app\/Frameworks\/libswiftObjectiveC.dylib",
             "cpu_subtype": 0,
             "image_vmaddr": "0x0",
-            "image_addr": "0x7e0000",
+            "image_addr": "0x778000",
             "cpu_type": 16777228,
             "uuid": "D18CEA22-27E1-3FF8-A1EA-7F5B8EB58936",
             "type": "apple",
@@ -126,7 +126,7 @@
             "name": "\/private\/var\/containers\/Bundle\/Application\/BC6B4B38-6DB8-4977-98A3-4F01E20F6010\/CrashProbeiOS.app\/Frameworks\/libswiftQuartzCore.dylib",
             "cpu_subtype": 0,
             "image_vmaddr": "0x0",
-            "image_addr": "0xa8000",
+            "image_addr": "0x78c000",
             "cpu_type": 16777228,
             "uuid": "FE11C790-4E46-3E2E-A3D3-8DB2EB0AC49F",
             "type": "apple",
@@ -138,7 +138,7 @@
             "name": "\/private\/var\/containers\/Bundle\/Application\/BC6B4B38-6DB8-4977-98A3-4F01E20F6010\/CrashProbeiOS.app\/Frameworks\/libswiftUIKit.dylib",
             "cpu_subtype": 0,
             "image_vmaddr": "0x0",
-            "image_addr": "0x7f4000",
+            "image_addr": "0x79c000",
             "cpu_type": 16777228,
             "uuid": "6AB086DC-7D4D-3670-A13C-42D5979E05B3",
             "type": "apple",
@@ -150,7 +150,7 @@
             "name": "\/private\/var\/containers\/Bundle\/Application\/BC6B4B38-6DB8-4977-98A3-4F01E20F6010\/CrashProbeiOS.app\/Frameworks\/KSCrash.framework\/KSCrash",
             "cpu_subtype": 0,
             "image_vmaddr": "0x0",
-            "image_addr": "0x80c000",
+            "image_addr": "0x7b4000",
             "cpu_type": 16777228,
             "uuid": "C37690E6-EDAA-3E6F-928B-AA02F6F3B21B",
             "type": "apple",
@@ -3786,7 +3786,7 @@
             "name": "\/System\/Library\/PrivateFrameworks\/FileProvider.framework\/Modules\/CloudDocsFileProvider.bundle\/CloudDocsFileProvider",
             "cpu_subtype": 0,
             "image_vmaddr": "0x0",
-            "image_addr": "0xfec000",
+            "image_addr": "0x2bcc000",
             "cpu_type": 16777228,
             "uuid": "A5EA8083-DD24-3616-8B19-06BFE177FCC8",
             "type": "apple",
@@ -3810,7 +3810,7 @@
             "name": "\/System\/Library\/PrivateFrameworks\/FileProvider.framework\/Modules\/FileProviderModule.bundle\/FileProviderModule",
             "cpu_subtype": 0,
             "image_vmaddr": "0x0",
-            "image_addr": "0x4848000",
+            "image_addr": "0x2bec000",
             "cpu_type": 16777228,
             "uuid": "7C785970-058F-30AA-A08C-628FECBCB93A",
             "type": "apple",
@@ -3917,18 +3917,18 @@
     "platform": "cocoa",
     "exception": {
         "values": [{
-            "value": "Attempted to dereference garbage pointer 0x38.",
+            "value": "Exception 2, Code 3574368159, Subcode 8",
             "mechanism": {
                 "posix_signal": {
                     "signal": "0",
-                    "name": "SIGBUS"
+                    "name": "SIGILL"
                 },
                 "mach_exception": {
-                    "exception_name": "EXC_BAD_ACCESS",
-                    "exception": "1"
+                    "exception_name": "EXC_BAD_INSTRUCTION",
+                    "exception": "2"
                 }
             },
-            "type": "EXC_BAD_ACCESS",
+            "type": "EXC_BAD_INSTRUCTION",
             "thread_id": 0,
             "stacktrace": {
                 "frames": [{
@@ -3938,10 +3938,10 @@
                     "function": "<redacted>",
                     "symbol_addr": "0x805315b4"
                 }, {
-                    "image_addr": "0x7c000",
+                    "image_addr": "0x20000",
                     "package": "\/var\/containers\/Bundle\/Application\/BC6B4B38-6DB8-4977-98A3-4F01E20F6010\/CrashProbeiOS.app\/CrashProbeiOS",
-                    "instruction_addr": "0x8405c",
-                    "symbol_addr": "0x7c000"
+                    "instruction_addr": "0x2805c",
+                    "symbol_addr": "0x20000"
                 }, {
                     "image_addr": "0x8751b000",
                     "package": "\/System\/Library\/Frameworks\/UIKit.framework\/UIKit",
@@ -4057,22 +4057,16 @@
                     "function": "<redacted>",
                     "symbol_addr": "0x8755fcd0"
                 }, {
-                    "image_addr": "0x7c000",
+                    "image_addr": "0x20000",
                     "package": "\/var\/containers\/Bundle\/Application\/BC6B4B38-6DB8-4977-98A3-4F01E20F6010\/CrashProbeiOS.app\/CrashProbeiOS",
-                    "instruction_addr": "0x85948",
-                    "symbol_addr": "0x7c000"
+                    "instruction_addr": "0x29948",
+                    "symbol_addr": "0x20000"
                 }, {
-                    "image_addr": "0x13c000",
+                    "image_addr": "0x3c000",
                     "package": "\/private\/var\/containers\/Bundle\/Application\/BC6B4B38-6DB8-4977-98A3-4F01E20F6010\/CrashProbeiOS.app\/Frameworks\/CrashLibiOS.framework\/CrashLibiOS",
-                    "instruction_addr": "0x140964",
+                    "instruction_addr": "0x40c04",
                     "function": "kaboom_exception::what() const",
-                    "symbol_addr": "0x140540"
-                }, {
-                    "image_addr": "0x800a4000",
-                    "package": "\/usr\/lib\/libobjc.A.dylib",
-                    "instruction_addr": "0x800bef70",
-                    "function": "objc_msgSend",
-                    "symbol_addr": "0x800bef60"
+                    "symbol_addr": "0x40540"
                 }]
             }
         }]
@@ -4080,7 +4074,7 @@
     "level": "fatal",
     "tags": {},
     "release": "1.4.1",
-    "timestamp": "2017-01-19T14:11:35",
+    "timestamp": "2017-01-19T14:57:55",
     "sdk": {
         "name": "sentry-swift",
         "version": "1.4.4"
@@ -4093,8 +4087,8 @@
             "build": "14C92"
         },
         "device": {
-            "usable_memory": 2876063744,
-            "free_memory": 822001664,
+            "usable_memory": 2871345152,
+            "free_memory": 802799616,
             "family": "iPhone",
             "model_id": "D111AP",
             "arch": "arm64",
@@ -4105,7 +4099,7 @@
         }
     },
     "extra": {
-        "crash": "Crash inside objc_msgSend()"
+        "crash": "Execute a privileged instruction"
     },
     "threads": {
         "values": [{
@@ -4118,10 +4112,10 @@
                     "function": "<redacted>",
                     "symbol_addr": "0x805315b4"
                 }, {
-                    "image_addr": "0x7c000",
+                    "image_addr": "0x20000",
                     "package": "\/var\/containers\/Bundle\/Application\/BC6B4B38-6DB8-4977-98A3-4F01E20F6010\/CrashProbeiOS.app\/CrashProbeiOS",
-                    "instruction_addr": "0x8405c",
-                    "symbol_addr": "0x7c000"
+                    "instruction_addr": "0x2805c",
+                    "symbol_addr": "0x20000"
                 }, {
                     "image_addr": "0x8751b000",
                     "package": "\/System\/Library\/Frameworks\/UIKit.framework\/UIKit",
@@ -4237,96 +4231,20 @@
                     "function": "<redacted>",
                     "symbol_addr": "0x8755fcd0"
                 }, {
-                    "image_addr": "0x7c000",
+                    "image_addr": "0x20000",
                     "package": "\/var\/containers\/Bundle\/Application\/BC6B4B38-6DB8-4977-98A3-4F01E20F6010\/CrashProbeiOS.app\/CrashProbeiOS",
-                    "instruction_addr": "0x85948",
-                    "symbol_addr": "0x7c000"
+                    "instruction_addr": "0x29948",
+                    "symbol_addr": "0x20000"
                 }, {
-                    "image_addr": "0x13c000",
+                    "image_addr": "0x3c000",
                     "package": "\/private\/var\/containers\/Bundle\/Application\/BC6B4B38-6DB8-4977-98A3-4F01E20F6010\/CrashProbeiOS.app\/Frameworks\/CrashLibiOS.framework\/CrashLibiOS",
-                    "instruction_addr": "0x140964",
+                    "instruction_addr": "0x40c04",
                     "function": "kaboom_exception::what() const",
-                    "symbol_addr": "0x140540"
-                }, {
-                    "image_addr": "0x800a4000",
-                    "package": "\/usr\/lib\/libobjc.A.dylib",
-                    "instruction_addr": "0x800bef70",
-                    "function": "objc_msgSend",
-                    "symbol_addr": "0x800bef60"
+                    "symbol_addr": "0x40540"
                 }]
             },
             "id": 0,
             "crashed": true
-        }, {
-            "current": false,
-            "stacktrace": {
-                "frames": [{
-                    "image_addr": "0x80706000",
-                    "package": "\/usr\/lib\/system\/libsystem_pthread.dylib",
-                    "instruction_addr": "0x80707344",
-                    "function": "_pthread_wqthread",
-                    "symbol_addr": "0x80706d98"
-                }, {
-                    "image_addr": "0x80624000",
-                    "package": "\/usr\/lib\/system\/libsystem_kernel.dylib",
-                    "instruction_addr": "0x80643a88",
-                    "function": "__workq_kernreturn",
-                    "symbol_addr": "0x80643a80"
-                }]
-            },
-            "id": 1,
-            "crashed": false
-        }, {
-            "current": false,
-            "stacktrace": {
-                "frames": [{
-                    "image_addr": "0x80706000",
-                    "package": "\/usr\/lib\/system\/libsystem_pthread.dylib",
-                    "instruction_addr": "0x80706d88",
-                    "function": "pthread_workqueue_addthreads_np",
-                    "symbol_addr": "0x80706d08"
-                }]
-            },
-            "id": 2,
-            "crashed": false
-        }, {
-            "current": false,
-            "stacktrace": {
-                "frames": [{
-                    "image_addr": "0x80706000",
-                    "package": "\/usr\/lib\/system\/libsystem_pthread.dylib",
-                    "instruction_addr": "0x80707344",
-                    "function": "_pthread_wqthread",
-                    "symbol_addr": "0x80706d98"
-                }, {
-                    "image_addr": "0x80624000",
-                    "package": "\/usr\/lib\/system\/libsystem_kernel.dylib",
-                    "instruction_addr": "0x80643a88",
-                    "function": "__workq_kernreturn",
-                    "symbol_addr": "0x80643a80"
-                }]
-            },
-            "id": 3,
-            "crashed": false
-        }, {
-            "current": false,
-            "stacktrace": {
-                "frames": [{
-                    "image_addr": "0x80706000",
-                    "package": "\/usr\/lib\/system\/libsystem_pthread.dylib",
-                    "instruction_addr": "0x80707160",
-                    "function": "_pthread_wqthread",
-                    "symbol_addr": "0x80706d98"
-                }, {
-                    "image_addr": "0x80624000",
-                    "package": "\/usr\/lib\/system\/libsystem_kernel.dylib",
-                    "instruction_addr": "0x80643a88",
-                    "function": "__workq_kernreturn",
-                    "symbol_addr": "0x80643a80"
-                }]
-            },
-            "id": 4,
-            "crashed": false
         }, {
             "name": "com.apple.uikit.eventfetch-thread",
             "current": false,
@@ -4399,7 +4317,7 @@
                     "symbol_addr": "0x80625180"
                 }]
             },
-            "id": 5,
+            "id": 1,
             "crashed": false
         }, {
             "current": false,
@@ -4417,11 +4335,11 @@
                     "function": "<redacted>",
                     "symbol_addr": "0x80709760"
                 }, {
-                    "image_addr": "0x80c000",
+                    "image_addr": "0x7b4000",
                     "package": "\/private\/var\/containers\/Bundle\/Application\/BC6B4B38-6DB8-4977-98A3-4F01E20F6010\/CrashProbeiOS.app\/Frameworks\/KSCrash.framework\/KSCrash",
-                    "instruction_addr": "0x82761c",
+                    "instruction_addr": "0x7cf61c",
                     "function": "ksccd_init",
-                    "symbol_addr": "0x827514"
+                    "symbol_addr": "0x7cf514"
                 }, {
                     "image_addr": "0x80554000",
                     "package": "\/usr\/lib\/system\/libsystem_c.dylib",
@@ -4442,7 +4360,7 @@
                     "symbol_addr": "0x8064330c"
                 }]
             },
-            "id": 6,
+            "id": 2,
             "crashed": false
         }, {
             "name": "KSCrash Exception Handler (Secondary)",
@@ -4461,11 +4379,11 @@
                     "function": "<redacted>",
                     "symbol_addr": "0x80709760"
                 }, {
-                    "image_addr": "0x80c000",
+                    "image_addr": "0x7b4000",
                     "package": "\/private\/var\/containers\/Bundle\/Application\/BC6B4B38-6DB8-4977-98A3-4F01E20F6010\/CrashProbeiOS.app\/Frameworks\/KSCrash.framework\/KSCrash",
-                    "instruction_addr": "0x82f480",
+                    "instruction_addr": "0x7d7480",
                     "function": "kscm_machexception_getAPI",
-                    "symbol_addr": "0x82f088"
+                    "symbol_addr": "0x7d7088"
                 }, {
                     "image_addr": "0x80624000",
                     "package": "\/usr\/lib\/system\/libsystem_kernel.dylib",
@@ -4480,7 +4398,7 @@
                     "symbol_addr": "0x80625180"
                 }]
             },
-            "id": 7,
+            "id": 3,
             "crashed": false
         }, {
             "name": "KSCrash Exception Handler (Primary)",
@@ -4488,7 +4406,7 @@
             "stacktrace": {
                 "frames": []
             },
-            "id": 8,
+            "id": 4,
             "crashed": false
         }, {
             "name": "com.apple.NSURLConnectionLoader",
@@ -4550,10 +4468,93 @@
                     "symbol_addr": "0x80625180"
                 }]
             },
+            "id": 5,
+            "crashed": false
+        }, {
+            "current": false,
+            "stacktrace": {
+                "frames": [{
+                    "image_addr": "0x80706000",
+                    "package": "\/usr\/lib\/system\/libsystem_pthread.dylib",
+                    "instruction_addr": "0x80707344",
+                    "function": "_pthread_wqthread",
+                    "symbol_addr": "0x80706d98"
+                }, {
+                    "image_addr": "0x80624000",
+                    "package": "\/usr\/lib\/system\/libsystem_kernel.dylib",
+                    "instruction_addr": "0x80643a88",
+                    "function": "__workq_kernreturn",
+                    "symbol_addr": "0x80643a80"
+                }]
+            },
+            "id": 6,
+            "crashed": false
+        }, {
+            "current": false,
+            "stacktrace": {
+                "frames": [{
+                    "image_addr": "0x80706000",
+                    "package": "\/usr\/lib\/system\/libsystem_pthread.dylib",
+                    "instruction_addr": "0x80707160",
+                    "function": "_pthread_wqthread",
+                    "symbol_addr": "0x80706d98"
+                }, {
+                    "image_addr": "0x80624000",
+                    "package": "\/usr\/lib\/system\/libsystem_kernel.dylib",
+                    "instruction_addr": "0x80643a88",
+                    "function": "__workq_kernreturn",
+                    "symbol_addr": "0x80643a80"
+                }]
+            },
+            "id": 7,
+            "crashed": false
+        }, {
+            "current": false,
+            "stacktrace": {
+                "frames": [{
+                    "image_addr": "0x80706000",
+                    "package": "\/usr\/lib\/system\/libsystem_pthread.dylib",
+                    "instruction_addr": "0x80707160",
+                    "function": "_pthread_wqthread",
+                    "symbol_addr": "0x80706d98"
+                }, {
+                    "image_addr": "0x80624000",
+                    "package": "\/usr\/lib\/system\/libsystem_kernel.dylib",
+                    "instruction_addr": "0x80643a88",
+                    "function": "__workq_kernreturn",
+                    "symbol_addr": "0x80643a80"
+                }]
+            },
+            "id": 8,
+            "crashed": false
+        }, {
+            "current": false,
+            "stacktrace": {
+                "frames": [{
+                    "image_addr": "0x80706000",
+                    "package": "\/usr\/lib\/system\/libsystem_pthread.dylib",
+                    "instruction_addr": "0x80707160",
+                    "function": "_pthread_wqthread",
+                    "symbol_addr": "0x80706d98"
+                }, {
+                    "image_addr": "0x80624000",
+                    "package": "\/usr\/lib\/system\/libsystem_kernel.dylib",
+                    "instruction_addr": "0x80643a88",
+                    "function": "__workq_kernreturn",
+                    "symbol_addr": "0x80643a80"
+                }]
+            },
             "id": 9,
+            "crashed": false
+        }, {
+            "current": false,
+            "stacktrace": {
+                "frames": []
+            },
+            "id": 10,
             "crashed": false
         }]
     },
     "message": "",
-    "event_id": "A111F4B5D10D4104B3F4BC1FFF477A6D"
+    "event_id": "940551E8FDCB4F7EBD3B7BB2DBD5C697"
 }
